@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "2201783583_UAS_Mobprog"
